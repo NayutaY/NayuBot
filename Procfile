@@ -1,1 +1,1 @@
-worker: node Nayu.js
+worker: node bot.js
